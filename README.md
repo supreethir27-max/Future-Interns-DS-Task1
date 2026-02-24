@@ -26,5 +26,4 @@ This project analyzes online retail sales data using Power BI. The objective is 
 - dashboard/ → Power BI dashboard file (.pbix)
 - images/ → Dashboard screenshots
 
-## 📸 Dashboard Preview
-(Add your screenshot after uploading it)
+
